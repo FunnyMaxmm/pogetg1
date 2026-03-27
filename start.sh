@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ffllaapp # Your app working directory!!!
+cd aap # Your app working directory!!!
 export PORT=5000
 unset PIP_USER
 
@@ -21,3 +21,4 @@ fi
 
 echo "Starting application..."
 python main.py
+#
